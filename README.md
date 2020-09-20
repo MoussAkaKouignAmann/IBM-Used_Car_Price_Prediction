@@ -1,9 +1,5 @@
 # IBM-Used_Car_Price_Prediction
 Data analysis and Prediction of used car prices.
 
--Importing Datasets
--Data Wrangling
--Exploratory Data Analysis
--Prediction Model Development
--Model Evaluation
--
+We have built models and made predictions of vehicle prices. 
+Now we will determine how accurate these predictions are.
